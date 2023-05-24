@@ -1,0 +1,19 @@
+html {
+  text-align: center;
+}
+
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("/image/sarawak.jpg");
+}
+
+.info-div {
+  color: black;
+  word-wrap: break-word;
+  line-break: auto;
+  line-height: 50px;
+  font-weight: bolder;
+  font-family: arial;
+  text-align: center;
+}

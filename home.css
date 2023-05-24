@@ -1,0 +1,23 @@
+html {
+  text-align: center;
+  font-family: arial;
+  min-height: 100%;
+  box-sizing: border-box;
+  font-size: 62.5;
+}
+
+.sabah-col {
+  height: 100vh;
+  background-image: url("/image/sabah.jpg");
+  background-size: 100% 100%;
+}
+
+.sarawak-col {
+  height: 100vh;
+  background-image: url("/image/sarawak.jpg");
+  background-size: 100% 100%;
+}
+
+hr {
+  border-width: 5px;
+}

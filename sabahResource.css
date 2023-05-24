@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  font-family: arial;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("/image/sabah2.jpg");
+  line-break: auto;
+  line-height: 50px;
+}
